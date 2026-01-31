@@ -1,5 +1,5 @@
-**Exploring AI tools like Flow to create creative videos 🎨🎬**
-**Used ChatGPT for ideas and Flow AI for video creation 🤖**
+- **Exploring AI tools like Flow to create creative videos 🎨🎬**
+- **Used ChatGPT for ideas and Flow AI for video creation 🤖**
 
 Focused on learning storytelling, visual design, and AI-based content generation 📈
 Practicing prompt writing, video structuring, and creative workflows.
